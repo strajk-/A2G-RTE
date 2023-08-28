@@ -8,6 +8,6 @@
 
 ### Installation and Usage instructions
 1. Download and Install  [.NET 7 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.10-windows-x64-installer)
-2. Get the latest [A2G-RTE Release](https://github.com/strajk-/A2G-RTE/releases)
+2. Get the latest [A2G-RTE Release](https://github.com/strajk-/A2G-RTE/releases/latest)
 3. Start it while Anstoss 2 Gold is running
 4. While a save is loaded and on the Squad View, click on Refresh to fetch the data, click on Apply to save any changes
