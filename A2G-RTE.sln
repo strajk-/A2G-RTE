@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34004.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A2G-RTE", "A2G-RTE\A2G-RTE.csproj", "{63663D9C-76C6-479E-9EDC-44F007EBF08A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63663D9C-76C6-479E-9EDC-44F007EBF08A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63663D9C-76C6-479E-9EDC-44F007EBF08A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63663D9C-76C6-479E-9EDC-44F007EBF08A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63663D9C-76C6-479E-9EDC-44F007EBF08A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CEA5188-4FC3-4D4C-B83A-7C6CF0FA182D}
+	EndGlobalSection
+EndGlobal
