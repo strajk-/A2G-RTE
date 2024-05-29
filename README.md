@@ -1,5 +1,13 @@
 # A2G-RTE (Anstoss 2 Gold - Real Time Editor)
-*The Real Time Editor for the GOG Release of Anstoss 2 Gold v1.0_fix2 (48434).*
+*The Real Time Editor for Anstoss 2 Gold*
+
+## Requirements
+- Windows 10 v1606
+- .NET 7 Desktop Runtime
+- One of the following Anstoss 2 Gold releases:
+  - GOG Release of Anstoss 2 Gold v1.0_fix2 (48434).
+  - A2G Release from Anstoss 2007 - Anniversary Edition
+  - (Might also work with the original 1998 release and the Back to Games release from 2003, didn't test either yet)
 
 ## Dependencies
 - [.NET 7](https://github.com/dotnet/core/blob/main/release-notes/7.0/README.md)
