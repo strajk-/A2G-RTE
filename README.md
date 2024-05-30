@@ -2,7 +2,7 @@
 *The Real Time Editor for Anstoss 2 Gold*
 
 ## Requirements
-- Windows 10 v1606
+- *(At least)* Windows 10 v1606
 - .NET 7 Desktop Runtime
 - One of the following Anstoss 2 Gold releases:
   - GOG Release of Anstoss 2 Gold v1.0_fix2 (48434).
